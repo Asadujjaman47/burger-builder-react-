@@ -1,5 +1,5 @@
 
-[click](https://asadujjaman47.github.io/git-page-deploy/) to deploy page >>>
+[click](https://burger-builder-bd25c.web.app/) to deploy page >>>
 
 # Getting Started with Create React App
 
