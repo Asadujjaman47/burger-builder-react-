@@ -1,5 +1,6 @@
+# Deploy project
 
-[click](https://burger-builder-bd25c.web.app/) to deploy page >>>
+[click](https://burger-builder-bd25c.web.app/) to deploy project >>>
 
 # Getting Started with Create React App
 
